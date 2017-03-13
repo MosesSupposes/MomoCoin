@@ -1,0 +1,31 @@
+{
+  "name": "momo-coin",
+  "version": "1.0.0",
+  "description": "A SF Bay Area based alt coin",
+  "main": "client/src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testrpc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosesSupposes/MomoCoin.git"
+  },
+  "keywords": [
+    "alt-coin",
+    "bitcoin",
+    "momo-coin",
+    "cryptocurrency",
+    "ehtereum",
+    "blockchain",
+    "solidity"
+  ],
+  "author": "Moses A. Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosesSupposes/MomoCoin/issues"
+  },
+  "homepage": "https://github.com/MosesSupposes/MomoCoin#readme"
+}
